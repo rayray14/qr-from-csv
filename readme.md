@@ -14,7 +14,7 @@ pip install -r requirements.txt
 Update the csv_file variable in the generate_qr_codes.py script with the path to your CSV file.
 
 Run the Python script:
-python generate_qr_codes.py
+python generate.py
 
 The QR codes will be generated and saved as JPG images in the QR folder, with the filenames being the respective Client IDs.
 
